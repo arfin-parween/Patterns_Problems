@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+/*
+Print Square pattern like this
+ * * * * * *
+ * * * * * *
+ * * * * * *
+ * * * * * *
+ */
 public class SquarePattern {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
