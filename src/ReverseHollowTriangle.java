@@ -1,22 +1,21 @@
 import java.util.Scanner;
 /*
-Print Hollow Triangle
-          *
-        *   *
-      *       *
-    *           *
-  *               *
-* * * * * * * * * * *
+Print Reverse Hollow Triangle
+* * * * * * * * *
+  *           *
+    *       *
+      *   *
+        *
  */
-public class HollowTriangle {
+public class ReverseHollowTriangle {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter Number of levels or Rows");
         int a =sc.nextInt();
-        pattern18(a);
+        pattern19(a);
     }
-    static void pattern18(int row){
-        for (int i = 1; i <=row ; i++) {
+    static void pattern19(int row){
+        for (int i = row; i >=1 ; i--) {
             for (int j = row-1; j >=i ; j--) {
                 System.out.print("  ");
             }
@@ -27,6 +26,5 @@ public class HollowTriangle {
             }
             System.out.println();
         }
-
     }
 }
