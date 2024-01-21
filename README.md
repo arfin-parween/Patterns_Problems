@@ -12,6 +12,11 @@ For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s">
 For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
 
+<h2 align="left">Subscribe to my YouTube Channel</h2>
+<p align="left">
+<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" alt="start practicing"  /></a>
+
+
 **Contribute Your Patterns:**
 
  We encourage the community to contribute their own star patterns in any language. Share your creativity and help others learn!
