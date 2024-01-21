@@ -9,7 +9,7 @@ Whether you are a beginner looking to improve your coding skills or an experienc
 
 For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://img.freepik.com/premium-vector/icon-with-click-here-3d-button-white-web-marketing-design_123447-494.jpg" alt="start practicing"  height="70" width="150" /> </a> <br>
 
-For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br><br>
+For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://img.freepik.com/premium-vector/icon-with-click-here-3d-button-white-web-marketing-design_123447-494.jpg" alt="start practicing"  height="70" width="150" /> </a> <br><br>
 
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube" alt="start practicing"/></a><br>
 
