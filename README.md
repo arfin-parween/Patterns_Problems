@@ -12,7 +12,7 @@ For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s">
 For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
 
-<h3 align="left">Subscribe to my YouTube Channel</h3></a>
+<h3 align="left">Subscribe to my YouTube Channel</h3></a><br>
 <a href="https://www.youtube.com/c/start practicing"> Click Here </a> <br>
 
 **Contribute Your Patterns:**
