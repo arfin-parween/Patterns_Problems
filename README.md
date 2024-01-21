@@ -21,6 +21,10 @@ For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s
 Feel free to use the code in this repository for educational purposes, practice, or even integrate it into your projects. 
 
 
+<h3 align="left">Top 20 Number Pattern Questions:</h3>
+<a href="" target="blank"><img align="center" src="https://github.com/arfin-parween/Patterns_Problems/blob/master/Patterns%20Programs/Number%20Pattern%20question%20-2.jpg?raw=true" alt="Number Pattern"  /></a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
