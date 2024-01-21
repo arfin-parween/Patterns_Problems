@@ -12,9 +12,8 @@ For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s">
 For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
 
-<h2 align="left">Subscribe to my YouTube Channel</h2>
-<a href="https://www.youtube.com/c/start practicing" target="blank"></a>
-
+<h3 align="left">Subscribe to my YouTube Channel</h3>
+<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
 
 **Contribute Your Patterns:**
 
