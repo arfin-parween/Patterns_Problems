@@ -11,7 +11,7 @@ For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s">
 
 For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br><br>
 
-<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube" alt="start practicing"/></a>
+<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube" alt="start practicing"/></a><br>
 
 
 
