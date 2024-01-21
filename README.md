@@ -7,9 +7,9 @@ Whether you are a beginner looking to improve your coding skills or an experienc
 
 **For the video solution, Click Below:**
 
-For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVy1JgO_4BW63QrZHaPfYQw3jbStrSKe5YSA&usqp=CAU" alt="start practicing"  height="35" width="75" /> </a> <br>
+For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVy1JgO_4BW63QrZHaPfYQw3jbStrSKe5YSA&usqp=CAU" alt="start practicing"  height="50" width="50" /> </a> <br>
 
-For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVy1JgO_4BW63QrZHaPfYQw3jbStrSKe5YSA&usqp=CAU" alt="start practicing"  height="35" width="75" /> </a> <br><br>
+For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVy1JgO_4BW63QrZHaPfYQw3jbStrSKe5YSA&usqp=CAU" alt="start practicing"  height="50" width="50" /> </a> <br><br>
 
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube" alt="start practicing" height="100" width="300"/></a><br>
 
