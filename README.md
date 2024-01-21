@@ -9,13 +9,10 @@ Whether you are a beginner looking to improve your coding skills or an experienc
 
 For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
-For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
+For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br><br>
 
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube" alt="start practicing"/></a>
 
-
-
-<h3 align="left">Subscribe to my YouTube Channel</h3><a href="https://www.youtube.com/c/start practicing"> Click Here </a> <br>
 
 
 **Contribute Your Patterns:**
