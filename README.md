@@ -7,9 +7,9 @@ Whether you are a beginner looking to improve your coding skills or an experienc
 
 **For the video solution, Click Below:**
 
-For Star Patterns: 
+For Star Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
-For Number Patterns: 
+For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s"> Click Here </a> <br>
 
 
 **Contribute Your Patterns:**
