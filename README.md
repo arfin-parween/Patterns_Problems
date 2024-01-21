@@ -13,8 +13,7 @@ For Number Patterns: <a href="https://www.youtube.com/watch?v=psQmOFb23Ok&t=388s
 
 
 <h2 align="left">Subscribe to my YouTube Channel</h2>
-<p align="left">
-<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" alt="start practicing"  /></a>
+<a href="https://www.youtube.com/c/start practicing" target="blank"></a>
 
 
 **Contribute Your Patterns:**
